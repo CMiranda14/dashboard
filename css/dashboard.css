@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .banner{
-    background-color:rgba(52, 95, 180, 0.931);
+    background-color:rgba(52, 95, 180, 0.897);
     padding-top:3rem;
     align-items:center;
     display:flex;
@@ -88,7 +88,7 @@
 
     border-radius:20px;
 
-    border:solid rgba(52, 95, 180, 1) 1px;
+    border:solid  rgba(52, 95, 180, 0.897) 1px;
 }
 
 .div2{
@@ -99,7 +99,7 @@
     height:202px;
 
     border-radius:20px;
-    border:solid rgba(52, 95, 180, 1) 1px;
+    border:solid  rgba(52, 95, 180, 0.897) 1px;
 }
 
 .img_section2{
