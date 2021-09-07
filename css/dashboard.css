@@ -30,12 +30,14 @@
    
 }
 
-.section-one h2{
+.titulo_Inicial{
     color: white;
     align-items:flex-start;
     padding-bottom:9px;
     font-size:30px;
     margin-left:16px;
+    flex-wrap:normal;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
 .span1{
@@ -50,8 +52,9 @@
     background-color:white;
     padding:5px 0px 5px 15px;
     width:100px;
-    margin-top: 13px;
-    margin-left:16px;
+    margin-top: 10px;
+    margin-left:18px;
+    font-size:14px;
 }
 
 .span3{
